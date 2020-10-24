@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there, I'm Ashwini 👋
 
-<!--
-**ashwinidotx/ashwinidotx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student, Developer and a Gamer.
+###  I love tapping into stuff and finding out how things work.
 
-Here are some ideas to get you started:
+-  I have a degree in Computer Science. 🎓
+-  I'm currently learning Flutter. 📱
+-  I am also interested in Graphic Design. 🎨
+-  I’m looking to collaborate with other developers/designers on open source projects. ✋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 2021 Goals:
+-   Contribute more to my Github Profile.
+-   Make a lot of Flutter Projects.
+-   Publish 5 apps to PlayStore/AppStore.
+-   Design various beautifull illustrations.
+
+## Follow my work
+-   <img align="left" alt="Github 😄" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />[Github😄](https://github.com/ashwinidotx)  
+-   <img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/behance.svg" />[Behance.net](https://www.behance.net/ashwinidotx)  
+-   <img align="left" alt="Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/pinterest.svg" />[Pinterest](https://in.pinterest.com/ashwinidotx/)  
+
+### Connect with me:
+-   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/twitter.svg" />[Twitter](https://twitter.com/ShadyJoker27)  
+-   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/instagram.svg" />[Instagram](https://www.instagram.com/shadyjoker27/)  
+
+<br />
+<br />
+
+---
