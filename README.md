@@ -3,16 +3,16 @@
 ## I'm a Student, Developer and a Gamer.
 ###  I love tapping into stuff and finding out how things work.
 
--  I have a degree in Computer Science. 🎓
--  I'm currently learning Flutter. 📱
--  I am also interested in Graphic Design. 🎨
--  I’m looking to collaborate with other developers/designers on open source projects. ✋
+-  I have a degree in **Computer Science**. 🎓
+-  I'm currently learning **Flutter**. 📱
+-  I am also interested in **Graphic Design**. 🎨
+-  I’m looking to **collaborate** with other developers/designers on open source projects. ✋
 
 ## 2021 Goals:
--   Contribute more to my Github Profile.
--   Make a lot of Flutter Projects.
--   Publish 5 apps to PlayStore/AppStore.
--   Design various beautifull illustrations.
+-   **Contribute** more to my Github Profile.
+-   Make a lot of **Flutter Projects**.
+-   **Publish 5 apps** to PlayStore/AppStore.
+-   Design various beautiful **illustrations**.
 
 ## Follow my work
 -   <img align="left" alt="Github 😄" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />[Github😄](https://github.com/ashwinidotx)  
