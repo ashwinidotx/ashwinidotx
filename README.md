@@ -17,6 +17,7 @@
 
 ## Flutter Apps:
 -   [Calculator](https://github.com/ashwinidotx/Calculator_flutter.git)
+-   [Quotes App](https://github.com/ashwinidotx/quotes_app.git)
 
 
 
