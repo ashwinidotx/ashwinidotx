@@ -14,6 +14,8 @@
 -   **Publish 5 apps** to PlayStore/AppStore.
 -   Design various beautiful **illustrations**.
 
+## CS50 
+-   [Introduction-to-Computer-Science](https://github.com/ashwinidotx/CS50-Introduction-to-Computer-Science.git)
 
 ## Flutter Apps:
 -   [Calculator](https://github.com/ashwinidotx/Calculator_flutter.git)
